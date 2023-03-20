@@ -1,0 +1,13 @@
+name = "Ore Clumps"
+filename = "OreClumps-forge-1.19.2-0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d5ea686e19990cb5e78e5a98858dd944a8e4bca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3987066
+project-id = 522129

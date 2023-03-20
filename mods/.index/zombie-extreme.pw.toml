@@ -1,0 +1,14 @@
+name = "Zombie Extreme"
+filename = "Zombie Extreme 1.19.2 0.1.2 Fix.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "f0471491e63339c3a319587aab9e5c874c6bb3c8"
+
+[update]
+[update.curseforge]
+file-id = 4435429
+project-id = 392809

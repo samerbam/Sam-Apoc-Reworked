@@ -1,0 +1,13 @@
+name = "Dungeons Plus"
+filename = "dungeons_plus-1.19.2-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e468f1e22e70c7ca1244b8762313a9bc3a2f8dd1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4238815
+project-id = 377794
