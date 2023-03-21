@@ -960,6 +960,11 @@ hash = "32919ba2d15d55cec37bc8759064e1983e9a917c3ccfe25c4ad880cbf0a7026b"
 metafile = true
 
 [[files]]
+file = "mods/enderchests.pw.toml"
+hash = "4ddaf5730a18962bd1ae4a1f00857d1a38c9149adc4b2352049a188777bb2893"
+metafile = true
+
+[[files]]
 file = "mods/enhancedvisuals.pw.toml"
 hash = "1627865f7159a63302d6a3ec0734027b07c8b7e627e4ae9b99a58469f6be31a0"
 metafile = true
@@ -1052,6 +1057,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-weathering-forge.pw.toml"
 hash = "00f3dc4debce9b682bf3a785418f977639e692fe2848dcc0634663b6512a31a6"
+metafile = true
+
+[[files]]
+file = "mods/improved-mobs.pw.toml"
+hash = "320a9246e9a1466307a9975ad3835894e6755287ca1745302865e1db00c18227"
 metafile = true
 
 [[files]]
@@ -1240,6 +1250,16 @@ hash = "e2e2e14e86490dad80d8d6d8d16915070ae6669a12292629931205f6a929d4d4"
 metafile = true
 
 [[files]]
+file = "mods/shetiphiancore.pw.toml"
+hash = "e9c24e17fc72c175a7bb24a930769037f9f3e82f4e79ad34fe67ca7770419674"
+metafile = true
+
+[[files]]
+file = "mods/shift-scroll-fix.pw.toml"
+hash = "b8eb0d751fc02619a09926eb262b82fc4a27b5da68474a59a7c083abe137d47f"
+metafile = true
+
+[[files]]
 file = "mods/simple-planes.pw.toml"
 hash = "9e6384fda075dcd6c01df35fbe95df1f0fec821ad9f24e5fb74d8b43100d959a"
 metafile = true
@@ -1270,6 +1290,11 @@ hash = "e978b9a664e8118e37857c3685d83f14545a8d683d99f66b65394938245fa12c"
 metafile = true
 
 [[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "11332954f108106789ad818138a9b6ee0dd169a92b8763ae35d2d9ce88815c23"
+metafile = true
+
+[[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "69e0946bfa36ce003d3b3582b5332ea0b89541eefe6083f9cdde1e4f9b02d527"
 metafile = true
@@ -1277,6 +1302,11 @@ metafile = true
 [[files]]
 file = "mods/sulfur-and-potassium-make-more-gunpowder.pw.toml"
 hash = "927dd8afc2f83c49f785554ab4a85206b4c3f60a4ef33ee0cdd5ae7f40f55b89"
+metafile = true
+
+[[files]]
+file = "mods/tenshilib.pw.toml"
+hash = "a5b8cd48709a340f2cbb9bed66a469b60bb453d3b30f5aaed860c3ee9dc0efd6"
 metafile = true
 
 [[files]]
