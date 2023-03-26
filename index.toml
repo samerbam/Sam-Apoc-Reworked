@@ -830,6 +830,11 @@ hash = "9c6f89d65804f3f09d774105c6a9afda57c949f7c0610689eb9c09de8cc3f1b8"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "f5e53e1ee927a32d67419fbd48d2d12668d982631a68b3a5ee60292a812dda54"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "248f0c2db85c6846ad254cb96437e7877e92a379c8bf5fd78e27a3c8ed0d318a"
 metafile = true
