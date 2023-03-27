@@ -42,7 +42,7 @@ hash = "27bc95e6a87bf86a842e1ff5b7ffbb3150c9056a09c68a9a5f5dfd1a48124efd"
 
 [[files]]
 file = "config/apotheosis/adventure.cfg"
-hash = "4ec8d3f734043d943f634e381f8b2dcd158b206a71cb6daed2a5d33b8951615c"
+hash = "2e8232102fb1276dbe4b6ba4dadcaf79ed1333970a6769c902ba95720e7fd482"
 
 [[files]]
 file = "config/apotheosis/apotheosis.cfg"
@@ -812,6 +812,11 @@ metafile = true
 [[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
+metafile = true
+
+[[files]]
+file = "mods/bad-mobs.pw.toml"
+hash = "9e9c73bdf284108852ccfef81ad0b4597f342c2104cc7bcdb409ecc0bfc3beaf"
 metafile = true
 
 [[files]]
