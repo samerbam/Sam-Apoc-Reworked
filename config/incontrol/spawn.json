@@ -1,1 +1,7 @@
-[]
+[
+	{
+		"mob": ["zombie_extreme:demolisher","zombie_extreme:infected","zombie_extreme:runner","zombie_extreme:crawler","zombie_extreme:bomber","zombie_extreme:rat_king","zombie_extreme:clicker","zombie_extreme:inflated","zombie_extreme:projectile_spit_inflated","zombie_extreme:chainsaw","zombie_extreme:boomer","zombie_extreme:night_hunter","zombie_extreme:parasite","zombie_extreme:devastated","zombie_extreme:faceless","zombie_extreme:revived","zombie_extreme:patient_zero"],
+		"dimension": "twilightforest:twilight_forest",
+		"result": "deny"
+	}
+]
