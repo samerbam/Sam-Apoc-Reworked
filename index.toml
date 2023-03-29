@@ -853,11 +853,6 @@ hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
 metafile = true
 
 [[files]]
-file = "mods/better-biome-blend.pw.toml"
-hash = "fe9aad091a0211cb4d99bb6481db21e8ed25d5190087af5ca8085fc0315ad902"
-metafile = true
-
-[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "df85d08e49fbf3cc7d70e60be05183fbcdd706157557e2708184377aff276d10"
 metafile = true
