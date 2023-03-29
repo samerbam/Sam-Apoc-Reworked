@@ -818,6 +818,16 @@ hash = "945ceb14e94115ed5dcc77b0e7aed6340e034e4e07aa4ca2a542ac9d12827f5c"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "7625fd02a8edcfaf66ae149456ba29e237a4740b6f2540fd2886a0ecaca189b7"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "7d97c74a8face79b86276545e903f7e37191b69137376c4269464fd51e9a9ca6"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "24765090bedbb6fdb3a3dd48df830e4f97b00c717e1f63d541ef3f00799bdf47"
 metafile = true
@@ -843,8 +853,18 @@ hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
 metafile = true
 
 [[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "fe9aad091a0211cb4d99bb6481db21e8ed25d5190087af5ca8085fc0315ad902"
+metafile = true
+
+[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "df85d08e49fbf3cc7d70e60be05183fbcdd706157557e2708184377aff276d10"
+metafile = true
+
+[[files]]
+file = "mods/better-fps-render-distance.pw.toml"
+hash = "d1246be95620574e67ed05ffb8178d2f1f61f369e88b2617e9b70ece360e9d35"
 metafile = true
 
 [[files]]
@@ -855,6 +875,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "9c6f89d65804f3f09d774105c6a9afda57c949f7c0610689eb9c09de8cc3f1b8"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "06f9136bcf52ef7ed253a4ad094a2c78855223dfb67c8afd5cd41da9570f9362"
 metafile = true
 
 [[files]]
@@ -1003,6 +1028,16 @@ hash = "1627865f7159a63302d6a3ec0734027b07c8b7e627e4ae9b99a58469f6be31a0"
 metafile = true
 
 [[files]]
+file = "mods/entity-collision-fps-fix.pw.toml"
+hash = "d614e471929c4906f85ba776600e0cfa9b0d958ce55121efd49c9ffd4ff00a04"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "2df773e7b7659f53640f79e1e2b2e1de0df20277dc61de90a1d12881116cdc49"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "15ec930ce0519321748df2efd650af394803aa9c22e7c09b841c4b77033095df"
 metafile = true
@@ -1020,6 +1055,21 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "03c419552b4da26729b658e78546ed045e5d9b25bca5f9253ebfb6a33cd91d1f"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "327a7b3255c51b7e3f4ff1c0ad3ebcb73bb8f9857466c774fcb076b5353c2cbd"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "0af5668eaf8a04120d8269874e8f12edd55cac319a00451b3fac2f40387ee8c8"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "0d6d8d7beaca1ae779f2e734db30da2595b98587f0714a6b15721664acf8f946"
 metafile = true
 
 [[files]]
@@ -1143,6 +1193,11 @@ hash = "da3c3b8b5ae30b1b9e9ecab4b77ce2829bfd94b97bec4b2745f5ba8dea40c9e2"
 metafile = true
 
 [[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "e01b80a9797007df118caea7f9b87d6b426cbe7c15f23517e0cd220845141463"
 metafile = true
@@ -1223,6 +1278,11 @@ hash = "bd07efacced5ec36b00a5832341173d6a71868e6b34afa872e17474b92702a85"
 metafile = true
 
 [[files]]
+file = "mods/pluto.pw.toml"
+hash = "9d5a150b9e7c53908227b728a87705693e856d9eaf70c185f2a5bc3a8b45390e"
+metafile = true
+
+[[files]]
 file = "mods/polylib.pw.toml"
 hash = "5617cd09c1156295c3dcb279c1f68db0edad1e6233906f54f845480f748376fe"
 metafile = true
@@ -1255,6 +1315,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "340220de7bc4d0542c8e3ace4696d60b5b5f7fa19cd9aee3c9870d8acae36de5"
+metafile = true
+
+[[files]]
+file = "mods/reauth.pw.toml"
+hash = "da46985b92972295e91b1a3365b79fdd526ce3f7000c56e4975fa63112f57837"
 metafile = true
 
 [[files]]
@@ -1308,6 +1373,16 @@ hash = "a9a4e95e24894750635b270c8c89eafaeb0d61bbb5ab25f40e5c5075714ff828"
 metafile = true
 
 [[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "49a62dc782f18f414f4dd5fd08a10a31c8698a87404ed12b7a847b6ac474c2e4"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "7b34fbdf04e61cc4870d3c27cd995b4b6fb2b766eaa6cae539599c44a3ab76b8"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "6a37f93609d5dc95808f5bc477a6be4e6b3623b9a438b1a275e436ab1f7fb63f"
 metafile = true
@@ -1325,6 +1400,11 @@ metafile = true
 [[files]]
 file = "mods/stalwart-dungeons.pw.toml"
 hash = "e978b9a664e8118e37857c3685d83f14545a8d683d99f66b65394938245fa12c"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "84b4303c211a5837819e5b88b8d131b659820c59dd8136fb8a69859c29922345"
 metafile = true
 
 [[files]]
