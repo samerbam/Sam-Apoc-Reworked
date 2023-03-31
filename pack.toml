@@ -1,12 +1,12 @@
 name = "Sams Apocalypse Reworked"
 author = "Sam"
-version = "0.5.5"
+version = "0.6.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "abcfd72bfcf89bc773ce6a6bc93a5e30bea9cc9ce97cef06fe71afd7e5ae2956"
+hash = "6737b91a6c2ec08a2aff9ddd4191eca5d1de7304d9bd316b3665d1363299c8fb"
 
 [versions]
 forge = "43.2.7"

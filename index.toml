@@ -1338,6 +1338,11 @@ hash = "3dd7e9906c670fc3380094f3273d702fdbdad02ffa35ffaf2e8c5bd4ce3de2a3"
 metafile = true
 
 [[files]]
+file = "mods/rubidium.pw.toml"
+hash = "94c5d47b41e62a7928d8c1b725e7e3434afe59c7bdb6dd19069db6e6069ebe02"
+metafile = true
+
+[[files]]
 file = "mods/scorched-guns.pw.toml"
 hash = "d0380b30f04a81cfebbc8b2ae6800da4aa9e425840cbf5e6e17cc50ad3831388"
 metafile = true
