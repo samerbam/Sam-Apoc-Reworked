@@ -594,7 +594,7 @@ hash = "47c2b8a65ca08ee0a73400bf6b8ccc0a831b4c220fa95097eff6216456fc511a"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "f52a8d30f92ba134a219dd37c8b401c79ce80054c3c610ee040020a9c6ad43b1"
+hash = "fb1b1d824cd8a792d42fc1e262ff1d0d6baa5000dfe889d4223ad0d50c47af9e"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -898,6 +898,11 @@ hash = "5880c81df1af395ec3762eff4e98c78f7b75e62db67e1d191a1772d79aabc073"
 metafile = true
 
 [[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "79d38d4c976dadf89d2fd2978a0af50894ae0373fd784fecb369e47beda145bf"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "ed7d38776b40ced95d806d0debaa6faa5b999d1c46095d3587d6a9ff3947c0cc"
 metafile = true
@@ -1013,8 +1018,8 @@ hash = "32919ba2d15d55cec37bc8759064e1983e9a917c3ccfe25c4ad880cbf0a7026b"
 metafile = true
 
 [[files]]
-file = "mods/enderchests.pw.toml"
-hash = "4ddaf5730a18962bd1ae4a1f00857d1a38c9149adc4b2352049a188777bb2893"
+file = "mods/ender-storage-1-8.pw.toml"
+hash = "b8ba0a251d14abf255a8477337c2d81023228c779793218ef3990247632ef86e"
 metafile = true
 
 [[files]]
