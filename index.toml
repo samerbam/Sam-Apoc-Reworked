@@ -557,10 +557,6 @@ file = "config/jei/recipe-category-sort-order.ini"
 hash = "865a0aee98821012faef2e38f6c7337950c43135d9b659b404cfea4204876c1e"
 
 [[files]]
-file = "config/jei/world/server/Minecraft_Server_152b2462/bookmarks.ini"
-hash = "e7d9d6c5ccdfdadd1b345940646f0d16e6560d3987f0b84c7e19b5192c6cf372"
-
-[[files]]
 file = "config/jeresources-common.toml"
 hash = "13a4d5e1d1ac4207cbebef810696525975ec4f0c2470f6b858cbd9f62a6cd3ec"
 
@@ -799,18 +795,6 @@ hash = "0a1ad2e8d85ee470f06d507e4d351402b5979f2e252a64e109701343dca6fedf"
 [[files]]
 file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
-
-[[files]]
-file = "config/spark/tmp/about.txt"
-hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
-
-[[files]]
-file = "config/spark/tmp/spark-2a205e02c0baa-profile-data.jfr.tmp"
-hash = "339a9a832b6fdd2fe2a878c191925b7ef6105693077178d352c11d5d1353b9d7"
-
-[[files]]
-file = "config/spark/tmp/spark-2a21343e24550-profile-data.jfr.tmp"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/storagedrawers-client.toml"
