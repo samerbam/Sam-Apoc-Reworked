@@ -1,4 +1,7 @@
 {
+  "enderchests": {
+    "hud": true
+  },
   "minecraft": {
     "block_inventory.detailed_amount": 54,
     "furnace": true,
@@ -52,6 +55,11 @@
   "tombstone": {
     "graves": true
   },
+  "shetiphiancore": {
+    "hud.rgb16": true,
+    "hud": true,
+    "hud.redstone": true
+  },
   "twilightforest": {
     "quest_ram_wool": true
   },
@@ -88,5 +96,10 @@
     "spoof_block_icon": true,
     "info": true,
     "showcustomname": true
+  },
+  "storagedrawers": {
+    "display.stacklimit": true,
+    "display.content": true,
+    "display.status": true
   }
 }
