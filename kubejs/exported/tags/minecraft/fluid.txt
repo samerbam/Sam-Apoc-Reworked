@@ -1,0 +1,90 @@
+To refresh this file, delete it and run /reload command again! Last updated: May 3, 2023, 1:24:50 PM
+
+#forge:experience
+- sophisticatedcore:xp_still (from sophisticatedcore-1.19.2-0.5.38.203.jar)
+
+#forge:crude_oil
+
+#minecraft:water
+- minecraft:water (from Default)
+- minecraft:flowing_water (from Default)
+- create_things_and_misc:slime (from create_misc_and_things_1.19.2_2.0.jar)
+- create_things_and_misc:flowing_slime (from create_misc_and_things_1.19.2_2.0.jar)
+- create_confectionery:black_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:flowing_black_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:white_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:flowing_white_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:hot_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:flowing_hot_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:caramel (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:flowing_caramel (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:ruby_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:flowing_ruby_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- createaddition:flowing_seed_oil (from createaddition-1.19.2-20230315b.jar)
+- createaddition:seed_oil (from createaddition-1.19.2-20230315b.jar)
+
+#forge:molten_bronze
+- createbigcannons:flowing_molten_bronze (from createbigcannons-1.19.2-beta-0.5.b.jar)
+- createbigcannons:molten_bronze (from createbigcannons-1.19.2-beta-0.5.b.jar)
+
+#forge:milk
+- minecraft:milk? (from forge-1.19.2-43.2.7-universal.jar)
+- minecraft:flowing_milk? (from forge-1.19.2-43.2.7-universal.jar)
+
+#forge:tea
+- create:flowing_tea (from create-1.19.2-0.5.0.i.jar)
+- create:tea (from create-1.19.2-0.5.0.i.jar)
+
+#forge:molten_cast_iron
+- createbigcannons:flowing_molten_cast_iron (from createbigcannons-1.19.2-beta-0.5.b.jar)
+- createbigcannons:molten_cast_iron (from createbigcannons-1.19.2-beta-0.5.b.jar)
+
+#forge:biofuel
+- createaddition:flowing_bioethanol (from createaddition-1.19.2-20230315b.jar)
+- createaddition:bioethanol (from createaddition-1.19.2-20230315b.jar)
+
+#forge:molten_steel
+- createbigcannons:flowing_molten_steel (from createbigcannons-1.19.2-beta-0.5.b.jar)
+- createbigcannons:molten_steel (from createbigcannons-1.19.2-beta-0.5.b.jar)
+
+#twilightforest:fire_jet_fuel
+- #minecraft:lava (from twilightforest-1.19.2-4.2.1518-universal.jar)
+
+#forge:plantoil
+- createaddition:flowing_seed_oil (from createaddition-1.19.2-20230315b.jar)
+- createaddition:seed_oil (from createaddition-1.19.2-20230315b.jar)
+
+#minecraft:lava
+- minecraft:lava (from Default)
+- minecraft:flowing_lava (from Default)
+
+#create_enchantment_industry:printer_input
+- create_enchantment_industry:flowing_experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.14.jar)
+- create_enchantment_industry:experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.14.jar)
+- #forge:ink (from create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.14.jar)
+
+#create:bottomless/deny
+
+#create_enchantment_industry:blaze_enchanter_input
+- create_enchantment_industry:flowing_experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.14.jar)
+- create_enchantment_industry:experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.14.jar)
+- create_enchantment_industry:flowing_hyper_experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.14.jar)
+- create_enchantment_industry:hyper_experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.14.jar)
+
+#forge:chocolate
+- create:flowing_chocolate (from create-1.19.2-0.5.0.i.jar)
+- create:chocolate (from create-1.19.2-0.5.0.i.jar)
+
+#create:bottomless/allow
+- minecraft:water (from create-1.19.2-0.5.0.i.jar)
+- minecraft:lava (from create-1.19.2-0.5.0.i.jar)
+
+#forge:honey
+- create:flowing_honey (from create-1.19.2-0.5.0.i.jar)
+- create:honey (from create-1.19.2-0.5.0.i.jar)
+
+#forge:creosote
+
+#forge:ink
+- create_enchantment_industry:flowing_ink (from create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.14.jar)
+- create_enchantment_industry:ink (from create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.14.jar)

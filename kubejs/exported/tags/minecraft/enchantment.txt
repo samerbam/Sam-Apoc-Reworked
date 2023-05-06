@@ -1,0 +1,79 @@
+To refresh this file, delete it and run /reload command again! Last updated: May 3, 2023, 1:24:50 PM
+
+#tetra:exclusions/armor_chest
+
+#tetra:exclusions/armor_legs
+
+#tetra:exclusions/armor_head
+
+#tetra:additions/blunt_weapon
+
+#twilightforest:phantom_armor_banned_enchants
+- minecraft:vanishing_curse (from twilightforest-1.19.2-4.2.1518-universal.jar)
+- minecraft:binding_curse (from twilightforest-1.19.2-4.2.1518-universal.jar)
+
+#tetra:exclusions/vanishable
+
+#tetra:additions/throwable
+- minecraft:loyalty (from tetra-1.19.2-5.0.2.jar)
+- minecraft:channeling (from tetra-1.19.2-5.0.2.jar)
+
+#tetra:exclusions/armor
+
+#tetra:additions/block_breaker
+
+#create_enchantment_industry:hyper_enchantable
+
+#tetra:additions/fishing_rod
+
+#tetra:exclusions/fishing_rod
+
+#tetra:exclusions/pointy_weapon
+- minecraft:loyalty (from tetra-1.19.2-5.0.2.jar)
+- minecraft:channeling (from tetra-1.19.2-5.0.2.jar)
+
+#tetra:exclusions/bow
+
+#tetra:additions/pointy_weapon
+
+#tetra:exclusions/breakable
+
+#tetra:additions/crossbow
+
+#tetra:additions/armor_head
+
+#tetra:exclusions/blunt_weapon
+- minecraft:sharpness (from tetra-1.19.2-5.0.2.jar)
+
+#tetra:additions/bow
+
+#tetra:additions/vanishable
+
+#tetra:additions/armor_chest
+
+#tetra:additions/armor
+
+#tetra:exclusions/edged_weapon
+
+#tetra:additions/breakable
+
+#tetra:exclusions/wearable
+
+#tetra:additions/armor_feet
+
+#tetra:exclusions/block_breaker
+
+#tetra:additions/wearable
+
+#tetra:additions/armor_legs
+
+#dungeons_plus:warped_axe_applicable
+- soulfired:soul_fire_aspect? (from dungeons_plus-1.19.2-1.3.0.jar)
+
+#tetra:additions/edged_weapon
+
+#tetra:exclusions/throwable
+
+#tetra:exclusions/crossbow
+
+#tetra:exclusions/armor_feet
