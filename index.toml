@@ -2104,10 +2104,6 @@ hash = "190fe3418f92e9a4989c9418e023ed4e7589fe196300cacad56c463776462d03"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "0f2f8347f5bb9ab0d344771c70324ec8829e6a93fd514ac783455bef503ffc2e"
-
-[[files]]
 file = "resourcepacks/Quark Programmer Art.zip"
 hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
 
