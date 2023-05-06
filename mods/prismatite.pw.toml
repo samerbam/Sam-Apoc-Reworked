@@ -1,13 +1,13 @@
 name = "Prismatite"
-filename = "prismatite-1.19.2-1.1.0.jar"
+filename = "prismatite-1.19.2-1.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "442aeb349f2bffcb7f0a393b628f2ad408e2f4db"
+hash = "8264aa2b8fefebe6f19608814853f3000d0978c1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4365327
+file-id = 4511118
 project-id = 818028

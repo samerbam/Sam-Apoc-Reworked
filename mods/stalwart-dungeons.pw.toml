@@ -1,13 +1,13 @@
 name = "Stalwart Dungeons"
-filename = "stalwart-dungeons-1.19.2-1.2.5.jar"
+filename = "stalwart-dungeons-1.19.2-1.2.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9d7aa7b0232a91ab054ebd66bdf66fb74b0c7de0"
+hash = "a970e7be6a8735306db2b040df60907187346b80"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4033660
+file-id = 4499656
 project-id = 474817
