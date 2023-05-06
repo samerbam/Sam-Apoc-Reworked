@@ -1,6 +1,6 @@
 name = "Sams Apocalypse Reworked"
 author = "Sam"
-version = "0.8.0"
+version = "0.8.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "edb4eca0ba800781c83afcb52f3f4c7e815bed283225ee5f8f2552dbe473cfd4"
 
 [versions]
-forge = "43.2.7"
+forge = "43.2.8"
 minecraft = "1.19.2"
