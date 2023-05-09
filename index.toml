@@ -1409,6 +1409,11 @@ hash = "9c6f89d65804f3f09d774105c6a9afda57c949f7c0610689eb9c09de8cc3f1b8"
 metafile = true
 
 [[files]]
+file = "mods/builders-delight-forge.pw.toml"
+hash = "8387b7fc483dd1d10fcad61418a6da117a7c55d8ea8f6881cd06c867544ec52b"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "58f75414da63386b16498d447ebd9c0074e72df9e8a667f075577e1813e5d31e"
 metafile = true
@@ -1879,6 +1884,11 @@ hash = "da46985b92972295e91b1a3365b79fdd526ce3f7000c56e4975fa63112f57837"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "07f8d20235699065bdf4616d380ee4f4f5413dce0f53d99a608c8e89ac4350f6"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "72f912e9893c002b994da409e5114078180139bfea729785859b1887ba5de3fe"
 metafile = true
@@ -1986,6 +1996,16 @@ metafile = true
 [[files]]
 file = "mods/sulfur-and-potassium-make-more-gunpowder.pw.toml"
 hash = "927dd8afc2f83c49f785554ab4a85206b4c3f60a4ef33ee0cdd5ae7f40f55b89"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "ad510a025c5e7b9255cf1d8eb0ad0004d095261e3f4691cd9bf488e1b1c3f8a8"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "f516b9896ceb6b5a76b9960e4f3c5ca8e92e706b464893df515fd9028a2f1215"
 metafile = true
 
 [[files]]
